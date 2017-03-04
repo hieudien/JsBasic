@@ -10,5 +10,8 @@
     "demojs"
   ],
   "author": "Hieudien",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
 }
