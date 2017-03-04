@@ -1,0 +1,14 @@
+{
+  "name": "demojs",
+  "version": "1.0.0",
+  "description": "create demojs",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "keywords": [
+    "demojs"
+  ],
+  "author": "Hieudien",
+  "license": "MIT"
+}
